@@ -8,7 +8,7 @@
 > Not a dev — just a fan of a healthy dose of self-destruction.
 
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=0xtalon&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" width="364px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=0xtalon&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="364px" />
 <img src="https://streak-stats.demolab.com?user=0xtalon&theme=blood-dark&hide_border=false" width="400px" />
 
 
